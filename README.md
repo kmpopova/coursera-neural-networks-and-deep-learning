@@ -8,7 +8,7 @@ It is organized by week (skipping Week 1 as it contained no assignment) and incl
 
 You can view my certificate of completion for this course here: [Coursera: Neural Networks and Deep Learning Certificate](https://coursera.org/share/7d2abad98a6b511763149909893468b4)
 
-## Structure
+## Folder Structure
 
 - **Week2**: Python and Numpy basics, vectorization, and logistic regression assignments.
   - `W2A1/Python_Basics_with_Numpy.ipynb`: Assignment 1, Introduction to Python and Numpy for deep learning.
