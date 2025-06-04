@@ -1,6 +1,6 @@
 # Coursera: Neural Networks and Deep Learning
 
-This folder contains course materials, programming assignments and their solutions for the DeepLearning.AI course "Neural Networks and Deep Learning" on Coursera (part of  Deep Learning Specialization). 
+This folder contains course materials and my solutions for the programming assignments from the DeepLearning.AI course "Neural Networks and Deep Learning" on Coursera (part of  Deep Learning Specialization). 
 
 It is organized by week (skipping Week 1 as it contained no assignment) and includes Jupyter notebooks, datasets, images, testing and utility scripts for hands-on learning and programming assignments.
 
